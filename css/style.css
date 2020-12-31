@@ -2596,7 +2596,7 @@ img{
 
 .matches-block .inner-block .content-column ul li{
 	position:relative;
-	color:#848484;
+	color:#9a9a9a;
 	font-size:14px;
 	margin-right:7px;
 	margin-bottom:8px;
@@ -2608,7 +2608,7 @@ img{
 
 .matches-block .inner-block .content-column .title{
 	position:relative;
-	color:#3786ff;
+	color:#589aff;
 	font-size:16px;
 	margin-top:18px;
 	letter-spacing:1px;
@@ -2647,7 +2647,7 @@ img{
 
 .matches-block .inner-block .content-column .date{
 	position:relative;
-	color:#848484;
+	color:#9a9a9a;
 	font-size:16px;
 	margin-top:15px;
 	font-weight:400;
@@ -2730,7 +2730,7 @@ img{
 
 .match-item .inner-item .product{
 	position:relative;
-	color:#848484;
+	color:#959595;
 	display:block;
 	font-size:14px;
 	text-align:center;
@@ -3426,7 +3426,7 @@ img{
 
 .main-footer .logo-widget .text{
 	position:relative;
-	color:#848484;
+	color:#959595;
 	font-size:16px;
 	line-height:2em;
 }
@@ -3457,7 +3457,7 @@ img{
 
 .main-footer .newsletter-widget .text{
 	position:relative;
-	color:#848484;
+	color:#959595;
 	font-size:16px;
 	line-height:2em;
 	margin-bottom:25px;
