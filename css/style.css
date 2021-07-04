@@ -4332,7 +4332,7 @@ img{
 .question-block-two .inner-box{
 	position:relative;
 	padding-right:70px;
-	padding-left:135px;
+	/* padding-left:135px; */
 }
 
 .question-block-two .inner-box .icon-box{
