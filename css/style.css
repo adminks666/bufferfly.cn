@@ -84,6 +84,9 @@ font-family: 'Roboto Condensed', sans-serif;
 ====================================================================
 
  ***/
+img {
+    border-radius: 8px 8px 8px 8px;
+}
 
 body {
 	
@@ -616,7 +619,8 @@ figure{
 img{
 	display:inline-block;
 	max-width:100%;
-	height:auto;	
+	height:auto;
+	border-radius: 36px 36px 36px 36px;	
 }
 
 .dropdown-toggle::after{
@@ -2065,7 +2069,7 @@ img{
 
 .welcome-section{
 	position:relative;
-	padding:115px 0px 115px;
+	/* padding:115px 0px 115px; */
 }
 
 .welcome-section:before{
