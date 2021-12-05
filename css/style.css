@@ -3012,8 +3012,8 @@ img{
 }
 
 .facts-section .title-boxed .content{
-	position:relative;
-	max-width:660px;
+	/* position:relative; */
+	/* max-width: 675px; */
 }
 
 .facts-section .content h2{
@@ -3025,6 +3025,7 @@ img{
 	letter-spacing:1px;
 	margin-bottom:60px;
 	text-transform:uppercase;
+	top: auto;
 }
 
 .facts-section .lower-boxed{
@@ -3091,9 +3092,9 @@ img{
 
 .facts-section .lower-boxed .testimonial-column .inner-column{
 	position:relative;
-	padding-top:100px;
-	padding-left:150px;
-	margin-top:-220px;
+	padding-top: 176px;
+	padding-left: 157px;
+	margin-top: 39px;
 	padding-bottom:110px;
 }
 
@@ -3102,7 +3103,7 @@ img{
 	content:'';
 	left:0px;
 	top:0px;
-	width:20000px;
+	width: 720px;
 	height:100%;
 	background:#1b1a1a url(../images/background/7.png) repeat-x;
 }
